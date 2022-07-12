@@ -51,4 +51,7 @@ dependencies {
 
     // LiveData
     implementation 'androidx.lifecycle:lifecycle-livedata-ktx:2.5.0'
+
+    //Picasso
+    implementation 'com.squareup.picasso:2.71828'
 }
