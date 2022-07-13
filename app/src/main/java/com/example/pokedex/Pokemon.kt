@@ -1,4 +1,4 @@
 package com.example.pokedex
 
- data class Pokemon(val pokemonName:String,
- val pokemonImage:String)
+ data class Pokemon(val namePokemon:String,
+ val imagePokemon:String)
