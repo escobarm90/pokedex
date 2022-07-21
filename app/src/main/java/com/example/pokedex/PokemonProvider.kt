@@ -2,7 +2,7 @@ package com.example.pokedex
 
 class PokemonProvider {
     companion object{
-        val pokemons: List<Pokemon> = listOf(
+        val pokemonlist: List<Pokemon> = listOf(
             Pokemon("Pikachu","https://static.wikia.nocookie.net/espokemon/images/7/77/Pikachu.png/revision/latest/scale-to-width-down/1000?cb=20150621181250"),
             Pokemon("Charmander","https://static.wikia.nocookie.net/espokemon/images/5/56/Charmander.png/revision/latest?cb=20140207202456"),
             Pokemon("Bulbasaur","https://static.wikia.nocookie.net/espokemon/images/4/43/Bulbasaur.png/revision/latest/scale-to-width-down/1000?cb=20170120032346"),
